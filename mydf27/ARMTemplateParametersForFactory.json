@@ -1,0 +1,15 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "mydf27"
+		},
+		"ls_mystrg27_accountKey": {
+			"value": ""
+		},
+		"ls_mystrg27_properties_typeProperties_url": {
+			"value": "https://mystrg27.dfs.core.windows.net/"
+		}
+	}
+}
