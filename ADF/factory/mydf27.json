@@ -1,0 +1,9 @@
+{
+	"name": "mydf27",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b1ba6d9f-4b0a-4d77-b725-544f22e3180c",
+		"tenantId": "9e25d5b6-381d-4e31-943e-ecdf658df422"
+	}
+}
