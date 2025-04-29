@@ -1,0 +1,3 @@
+CustomerCode, CustomerName, Address, PhoneNumber
+1,"Naren","Bangalore",82827292
+2,"Rajesh","Hyd",296202828
